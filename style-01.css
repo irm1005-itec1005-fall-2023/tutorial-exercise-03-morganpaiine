@@ -76,6 +76,13 @@ Create a class called blue-box and add the following styles to it
   14. Add a text color of #f5f5f5
 
 */
+main .blue-box{
+  padding: 1rem;
+  margin: 2rem 0;
+  background-color: #457b9dff;
+  border-radius: 0.5rem;
+  color: #f5f5f5
+}
 
 /* Use psuedo classes nth-child(even) to give ever second list item in main a different background colour and text color
 hint: li:nth-child(odd)
